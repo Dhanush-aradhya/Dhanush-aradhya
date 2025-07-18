@@ -1,5 +1,6 @@
 # 💫 About Me:
 FinSage
+<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/849473c6-2278-49e5-b42a-5d63bef2dde4" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhanush-aradhya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
