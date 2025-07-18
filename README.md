@@ -1,8 +1,10 @@
+# 💫 About Me:
+👋 Hi there,<br>
+I'm M S Dhanush Kumar Aradhya<br>
+<br>
 ![68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d64](https://github.com/user-attachments/assets/9848767a-7846-4cad-b5be-2bf1330d4e02)
 
-
-# 💫 About Me:
-👋 Hi there, I'm M S Dhanush Kumar Aradhya<br>I'm a passionate software developer and tech enthusiast currently pursuing my B.E. in Computer Science at Vidyavardhaka College of Engineering, Mysuru (CGPA: 9.33). With a strong foundation in C, C++, Python, and a deep interest in Data Structures, Algorithms, and AI/ML, I love building impactful solutions that solve real-world problems.<br><br>🔍 I'm especially interested in:<br><br>AI & Machine Learning — Built intelligent tools using NLP and Gemini APIs<br><br>Full-Stack Development — Developed platforms using Django, PHP, and PostgreSQL<br><br>Cloud & DevOps — Hands-on with Docker, GitHub, Jenkins, and Kubernetes<br><br>🚀 Recent Projects:<br><br>🧠 AI ResearchBot  An agentic tool for automating research paper discovery and summarization using Gemini models and web scraping<br><br>🌐 Placement Portal – A complete web app for training & placement management using PHP & PostgreSQL<br><br>💧 Amrit Yatra – A UPI-enabled water supply management platform with GIS-based tracking and citizen support<br><br>🏆 Highlights:<br><br>Smart India Hackathon 2024 – Grand Finalist
+I'm a passionate software developer and tech enthusiast currently pursuing my B.E. in Computer Science at Vidyavardhaka College of Engineering, Mysuru (CGPA: 9.33). With a strong foundation in C, C++, Python, and a deep interest in Data Structures, Algorithms, and AI/ML, I love building impactful solutions that solve real-world problems.<br><br>🔍 I'm especially interested in:<br><br>AI & Machine Learning — Built intelligent tools using NLP and Gemini APIs<br><br>Full-Stack Development — Developed platforms using Django, PHP, and PostgreSQL<br><br>Cloud & DevOps — Hands-on with Docker, GitHub, Jenkins, and Kubernetes<br><br>🚀 Recent Projects:<br><br>🧠 DiveDeep - AI ResearchBot, An agentic tool for automating research paper discovery and summarization using Gemini models and web scraping<br><br>🌐 Placement Portal – A complete web app for training & placement management using PHP & PostgreSQL<br><br>💧 Amrit Yatra – A UPI-enabled water supply management platform with GIS-based tracking and citizen support<br><br>🏆 Highlights:<br><br>Smart India Hackathon 2024 – Grand Finalist
 
 
 ## 🌐 Socials:
